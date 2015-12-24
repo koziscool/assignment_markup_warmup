@@ -1,6 +1,14 @@
-div.something {
-  font-size: 15px; }
-  div.something h1 {
-    color: blue; }
+main {
+  float: right;
+  margin: 0 1.5%;
+  width: 72%; }
+
+aside {
+  float: left;
+  margin: 0 1.5%;
+  width: 23%; }
+
+footer {
+  clear: both; }
 
 /*# sourceMappingURL=styles.css.map */
